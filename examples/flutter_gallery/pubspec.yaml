@@ -14,7 +14,7 @@ dependencies:
   # Also update dev/benchmarks/complex_layout/pubspec.yaml
   flutter_gallery_assets:
     git:
-      url: https://flutter.googlesource.com/gallery-assets
+      url: https://gitlab.com/welld/gallery-assets
       ref: d318485f208376e06d7e330d9f191141d14722b8
 
 dev_dependencies:
